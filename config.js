@@ -1,5 +1,5 @@
-global.owner = ['6283182270674'] // Put your number here
-global.mods = [] // Want some help?
+global.owner = ['6282160268332','6282128475388'] // Put your number here
+global.mods = ['6282160268332'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -28,7 +28,7 @@ global.APIs = { // API Prefix
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://melcanz.com': 'elaina',
-  'https://api.xteam.xyz': 'd37372311698ed1d',
+  'https://api.xteam.xyz': 'cristian9407',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
   'https://api.zeks.xyz': 'apivinz',
@@ -36,25 +36,25 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'MIMINGANZ',
   'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.lolhuman.xyz': '7047f08f5a0ea4bcdf55cd72',
 }
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'stickerby'
-global.author = `𝙿𝚊𝚝𝚛𝚒𝚌𝚔 𝙱𝚘𝚝`
-global.wm = '𝙿𝚊𝚝𝚛𝚒𝚌𝚔 𝙱𝚘𝚝'
+global.packname = ''
+global.author = `𝗢𝗻𝗲 𝗕𝗼𝘁𝘇\n\nCreate You Sticker!\n\nwa.me/6282128475388`
+global.wm = '𝗢𝗻𝗲 𝗕𝗼𝘁𝘇 𝗯𝘆 𝗗𝗮𝘃𝗶𝗱'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://instagram.com/hyzer-stfu'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
-global.wait = '_*tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
+global.wait = '*Wait | Mohon Tunggu Sebentar..*'
+global.eror = '*Error!*\n_Terjadi Kesalahan.._'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 357 // The higher, The harder levelup
 
 global.rpg = {
   emoticon(string) {
